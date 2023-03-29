@@ -65,10 +65,10 @@ Research and define the following terms to the best of your ability.
 
 1. Component: a component is reusable code that acts the same way as a function but returns HTML
 
-2. Spread operator: the spread operator takes in an iterateable element and expands it into individual elements 
+2. Spread operator: The spread operator takes in an iterateable element and expands it into individual elements 
 
-3. React state:
+3. React state: State is a built-in object in react that is used to keep data and property values on a component which allows for it to change over time and re-render
 
-4. React props:
+4. React props: Props is a React keyword that stands for properties. Props is used to pass data between React components from a parent component to a child component
 
-5. DOM events:
+5. DOM events: DOM events are a way to handle dynamic changes in the React app
